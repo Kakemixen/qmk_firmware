@@ -40,3 +40,7 @@
 
 #define TAPPING_TERM 200
 #define PERMISSIVE_HOLD
+
+#define MK_3_SPEED
+#define MK_MOMENTARY_ACCEL
+
